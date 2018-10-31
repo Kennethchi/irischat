@@ -1,2 +1,2 @@
 # irischat
-Chat App
+Android Chat App
